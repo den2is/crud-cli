@@ -46,10 +46,6 @@ def run():
         print(ki)
         print("\tSee you later.")
 
-    #now = datetime.now()
-    #today = now.strftime("%Y/%m/%d")
-    #print(today)
-    #print("Mexico ,",mejico_date.strftime("%d/%m/%Y, %H:%M:%S"))
 
 if __name__ == '__main__':
     run()
